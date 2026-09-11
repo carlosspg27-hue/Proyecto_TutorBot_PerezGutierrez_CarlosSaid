@@ -5,4 +5,5 @@ automatizacion
 <img width="1730" height="585" alt="image" src="https://github.com/user-attachments/assets/8a598cbf-5e0a-4335-8a61-f33b5ee906a1" />
 <img width="1730" height="585" alt="image" src="https://github.com/user-attachments/assets/f54533ba-7d4e-44ef-b8a7-f8ace1c2b953" />
 <img width="1006" height="677" alt="image" src="https://github.com/user-attachments/assets/7396fe09-6870-4881-9923-1d75d90fb3b1" />
+<img width="1774" height="692" alt="image" src="https://github.com/user-attachments/assets/eb48720c-c057-49f7-bd0c-918d8ce705dc" />
 
